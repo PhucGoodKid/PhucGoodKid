@@ -65,10 +65,6 @@ motto:       "If you do it twice, automate it."
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PhucGoodKid&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PhucGoodKid&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
-</p>
-
 ---
 
 ## 🐍 Contribution snake
